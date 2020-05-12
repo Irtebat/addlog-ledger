@@ -1,6 +1,6 @@
 # addLog
 
-It is an object-oriented ES6 JS application that utilizes localStorage as a temporary data site and eventTriggers to update DOM; allowing for data addition and search ***without page relaod***.
+It is an ***object-oriented ES6 JS*** application that utilizes localStorage as a temporary data site and eventTriggers to update DOM; allowing for data addition and search ***without page relaod***.
 
 ## Features
 * Browser side DOM rendering
